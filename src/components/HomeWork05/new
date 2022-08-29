@@ -1,0 +1,16 @@
+// them hoac xoa 1 the dom : su dung classList
+// {element}.classList.add('user') : thể thêm
+// {element}.classList.remove('user') : thể xóa
+// {element}.classList.has('user') : thể kiểm tra có tồn tại hay không
+
+// cộng chuỗi
+// ví dụ: tên + tên lót + họ === full name
+
+// const ten = "Chau"
+// const lot = "Tran"
+// const ho = "Lam";
+// const fullName = "tui la "+ ho + lot + ten;
+// const newFullName = `tui la ${ho} ${ten}`
+
+// const user = {name : 'chau,phone: '123',email:'2222"}
+// const {name, ...rest} = user // rest : con` lai.
